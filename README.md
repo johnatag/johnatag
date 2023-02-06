@@ -5,7 +5,7 @@ Welcome to my Github! I'm a security enthusiast with over 8 years of development
 - I'm a final year Software Engineering Student at the University of Montreal, Polytechnique 🇨🇦
 - I have a strong interest in fullstack development, cybersecurity, infrastructure management and blockchain. 💻
 - In my free time, I love building cool & useful projects and participate in hackathons 🔨
-- I also do competitive dragon boat 🐲
+- I'm also a competitive dragon boat paddler 🐲
 
 ### What I'm doing now... 🔎
 - Team Lead & Developer at the [UW Blockchain Club](https://www.uwblockchain.ca/)
