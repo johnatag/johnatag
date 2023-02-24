@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Johnatan!
-Welcome to my Github! I'm a privacy & security enthusiast with over multiple years of development experience.
+Welcome to my Github! I'm a privacy & security enthusiast with multiple years of development experience.
 
 ### Fun facts about me ⚡
 - I'm a final year Software Engineering Student at the University of Montreal, Polytechnique 🇨🇦
