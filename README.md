@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Johnatan%20Gao-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/johnatag/)
 [![Telegram Badge](https://img.shields.io/badge/@t3chlore-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/t3chlore)
 [![Twitter Badge](https://img.shields.io/badge/@BlockchainJg-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BlockchainJg/)
+[![Email Badge](https://img.shields.io/badge/dev@johnatangao.com-0078D4?style=flat-squaree&logo=microsoft-outlook&logoColor=white)](mailto:dev@johnatangao.com)
 
 Welcome to my Github! I'm a privacy & security enthusiast with multiple years of development experience.
 
