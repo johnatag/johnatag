@@ -1,4 +1,5 @@
 ## Hi there 👋, I'm Johnatan!
+![](https://komarev.com/ghpvc/?johnatag)
 Welcome to my Github! I'm a privacy & security enthusiast with multiple years of development experience.
 
 ### Fun facts about me ⚡
