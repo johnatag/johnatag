@@ -9,7 +9,7 @@
 Welcome to my Github! I'm a privacy & security enthusiast with multiple years of development experience.
 
 ### Fun facts about me ⚡
-- I'm a senior @ the University of Montreal, Polytechnique 🇨🇦
+- I'm a Senior @ University de Montréal, Polytechnique 🇨🇦
 - I have a strong interest in fullstack development, cybersecurity, infrastructure management and blockchain. 💻
 - In my free time, I love building cool & useful projects and participate in hackathons 🔨
 - I'm also a competitive dragon boat paddler 🐲
